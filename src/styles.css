@@ -9,7 +9,7 @@ body {
   background-color: #f2f2f2;
   width: 100%;
 }
-tr {
+tr:nth-child(even) {
   background-color: gainsboro;
 }
 th {
