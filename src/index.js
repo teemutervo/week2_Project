@@ -1,5 +1,5 @@
 import "./styles.css";
-//
+
 const addCommentButton = document.getElementById("add-comment");
 const ul = document.getElementById("list");
 addCommentButton.addEventListener("click", () => {
